@@ -1,0 +1,2 @@
+Host github.com
+IdentityFile C:\Users\mac\Desktop\Avtotest Python\oct_19
